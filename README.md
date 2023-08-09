@@ -1,4 +1,4 @@
-EnviroPuck 🌍
+# EnviroPuck 🌍
 Introducing the EnviroPuck, a sleek and low-power environment sensing device, utilizing Raytac's MDBT50Q module featuring the nRF52840 chip, and Bosch's BME688 environmental sensor.
 
 <p align="center">
